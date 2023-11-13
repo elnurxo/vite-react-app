@@ -11,13 +11,13 @@ const data = [
     },
     {
         id:3,
-        name:'Eva',
-        age: 23
+        name:'Eva 2',
+        age: 21
     },
     {
         id:4,
-        name:'Barney',
-        age: 18
+        name:'Barney 2',
+        age: 24
     }
 ];
 export const num = 2;
